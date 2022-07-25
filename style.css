@@ -1,0 +1,31 @@
+body {
+    background-color: goldenrod;
+    color: bisque;
+}
+
+h1 {
+   font-family: 'Times New Roman';
+}
+
+a {
+    color: bisque;
+}
+
+li {
+    margin-top: 15px;
+}
+
+.burger {
+    border-radius: 100px;
+    margin-bottom: 50px;
+    margin-top: 50;
+    box-shadow: 5px 5px 30px gold;
+}
+
+.porkchop {
+    height: 500px; width: 500px;
+}
+
+.rice {
+    height: 500px;
+}
